@@ -1,1 +1,1 @@
-# React와 Firebase로 앱 개발하기
+# Developing Apps with React and Firebase
